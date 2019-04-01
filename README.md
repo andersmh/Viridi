@@ -1,6 +1,6 @@
 # Viridi
 
-<img src="https://user-images.githubusercontent.com/31239471/55337097-53435b80-549e-11e9-83a5-b63f87c24a60.gif"> </img>
+<img src="https://user-images.githubusercontent.com/31239471/55337097-53435b80-549e-11e9-83a5-b63f87c24a60.gif" width="80%" height="80%"> </img>
 
 
 Concept by:
