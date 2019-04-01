@@ -4,3 +4,5 @@
 
 
 Concept by:
+
+Arne Olai Lyngsmo Molland, Andreas Garvik, Anders Mæhlum Halvorsen, Morten Helland
